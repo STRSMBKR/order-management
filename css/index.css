@@ -1,0 +1,56 @@
+
+.result-btn, .now-game , .now-order {
+    padding-bottom: 20px;
+    border-bottom: 1px solid #000;
+}
+
+.winner1P, .winner2P, .winner3P, .winner4P,
+.add-user-btn, .sort-user-btn, .delete-user-btn {
+    margin: 5px;
+}
+
+.now-card {
+    color: red;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.now-game-title {
+    font-size: 20px;
+}
+
+input {
+    width: 400px;
+    height: 40px;
+}
+
+.clearfix::after {
+    content: "";
+    display: block;
+    clear: both;
+ }
+
+.add-area , .sort-area, .delete-area {
+    width: 30%;
+    float: left;
+    margin-top: 30px;
+}
+
+.edit-btn, .close-edit-btn {
+    float: left;
+}
+
+.displaynone {
+    display: none;
+}
+.bold-font {
+    font-weight: 700;
+}
+
+.red-color {
+    color: red;
+}
+
+p {
+    margin: 0px;
+}
